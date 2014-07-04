@@ -1,5 +1,6 @@
 #Home Delivery Shipping Extension
-###Ported to OpenCart1.5.x by Jason Clark<mithereal@gmail.com>
+
+Ported to OpenCart1.5.x by Jason Clark (mithereal@gmail.com)
 
   Install:
   --------
